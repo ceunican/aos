@@ -6,8 +6,8 @@
 
 ## Slides and Reference Material
 
-0. ** Course Presentation**  [Slides](00_Presentacion.pdf)
-1. ** Introduction to Operating systems** [Slides](01_Introduction_to_operating_system.pdf),[Book chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
+0. **Course Presentation**  [Slides](00_Presentacion.pdf)
+1. **Introduction to Operating systems** [Slides](01_Introduction_to_operating_system.pdf),[Book chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)
 2.  **Virtualization**
 	4. The Abstraction: The Process [slides](04.The_abtrasction_the_process.pdf),[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf)
 	5. Interlude: Process API [Slides](05.Interlude_process_api.pdf)[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf)
@@ -26,5 +26,5 @@
     20. Advanced Page Tables [Slides](20.Advanced_Page_Tables.pdf)[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf)
     21. Swapping Mechanisms [Slides](21.Swapping_Mechanism.pdf)[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf)
     22. Swapping Policies [Slides](22.Swapping_Policies.pdf)[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf)
-23. ** Concurrency**
-24. ** Persistency**
+23. **Concurrency**
+24. **Persistency**
