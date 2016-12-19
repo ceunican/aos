@@ -37,10 +37,10 @@
     33. Event Based Concurrency [[Slides](33.Event-based_Concurrency(Advanced).pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf)
 24. **Persistency**
     36. I/O Devices [[Slides](36.IO_Devices.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf)]
-    37. Hard Disks [[Slides](36.IO_Devices.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf)]
-    39. Files and Directories [[Slides](36.IO_Devices.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)]
-    40. File System Implementation [[Slides](36.IO_Devices.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)]
-    41. Fast File System (FFS) [[Slides](36.IO_Devices.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)]
-    42. FSCK and Journaling [[Slides](36.IO_Devices.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf)]
-    43. Log-structured File System (LFS) [[Slides](36.IO_Devices.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)]
-    44. Data Integrity and Protection [[Slides](36.IO_Devices.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)]
+    37. Hard Disks [[Slides](37.Hard_Disk_Drives.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf)]
+    39. Files and Directories [[Slides](39.File_and_Directories.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)]
+    40. File System Implementation [[Slides](40.File_system_Implementation.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)]
+    41. Fast File System (FFS) [[Slides](41.Locality_and_The_Fast_File_System.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)]
+    42. FSCK and Journaling [[Slides](42.Crash_Consistency_FSCK_and_Journaling.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf)]
+    43. Log-structured File System (LFS) [[Slides](43.Log-sructured\ File\ System\(LFS\).pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)]
+    44. Data Integrity and Protection [[Slides](44.Data_Integrity_and_Protection.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)]
