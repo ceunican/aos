@@ -16,7 +16,8 @@ and `cv_init()`, `cv_wait()` and `cv_signal()` for conditional variables. And no
 Your new clone system call should look like this: 
 
 ```c
-int clone(void(*fcn)(void*), void *arg, void*stack)``` 
+int clone(void(*fcn)(void*), void *arg, void*stack)
+``` 
 
 This call 
 creates a new kernel thread which shares the calling process's address space. File descriptors are copied as in fork. 
