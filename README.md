@@ -53,5 +53,9 @@
 * Threads [[README](Labs/P4/README.md)]
 * File Systems [[README](LABS/P5/README.md)]
 
-## ** Other links**
+## Material to develop the Labs
+
 * [Private Repo](https://gitlab.com/AOSUC/Lab/). Used o Turn in assignments.
+* [Vagrant Image]( https://atlas.hashicorp.com/vpuente/boxes/AOSUC1617). Debian 8 (Jessie) ready 
+to develop the Lab assignments. Requires Virtual-Box as provider. Works in Windows/OSX. Alternatively
+you can Linux subsystem in Windows 10 and port is OSX (following this [guide](http://stackoverflow.com/a/39953891)).
