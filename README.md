@@ -44,12 +44,14 @@
     42. FSCK and Journaling [[Slides](42.Crash_Consistency_FSCK_and_Journaling.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf)]
     43. Log-structured File System (LFS) [[Slides](43.Log-sructured\ File\ System\(LFS\).pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)]
     44. Data Integrity and Protection [[Slides](44.Data_Integrity_and_Protection.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)]
+    
+## Labs Material
 
-## **Labs Material**
     1. System Calls [[README](Labs/P1/README.md)]
     2. Scheduling [[README](Labs/P2/README.md)]
     3. Memory [[README](Labs/P3/README.md)]
     4. Threads [[README](Labs/P4/README.md)]
     5. File Systems [[README](LABS/P5/README.md)]
 
-## ** [Private Repo](https://gitlab.com/AOSUC/Lab/) **
+## ** Other links**
+    1. [Private Repo](https://gitlab.com/AOSUC/Lab/). Used o Turn in assignments.
