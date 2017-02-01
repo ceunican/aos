@@ -43,7 +43,7 @@
     41. Fast File System (FFS) [[Slides](41.Locality_and_The_Fast_File_System.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)]
     42. FSCK and Journaling [[Slides](42.Crash_Consistency_FSCK_and_Journaling.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf)]
     43. Log-structured File System (LFS) [[Slides](43.Log-sructured\ File\ System\(LFS\).pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)]
-    44. Data Integrity and Protection [[Slides](44.Data_Integrity_and_Protection.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)]
+    44. ~~Data Integrity and Protection [[Slides](44.Data_Integrity_and_Protection.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)]~~
     
 ## Labs Material
 
@@ -53,9 +53,13 @@
 * Threads [[README](Labs/P4/README.md)]
 * File Systems [[README](LABS/P5/README.md)]
 
+## Exams
+
+* Course 2016/17 [part1](examen1-1617.pdf)[part2](examen2-1617.pdf)[part3](examen3-1617.pdf)[final](Examen_Feb_1617.pdf)
+
 ## Material to develop the Labs
 
-* [Private Repo](https://gitlab.com/AOSUC/Lab/). Used o Turn in assignments.
+* [Private Repo](https://gitlab.com/AOSUC/Lab/). Used to Turn in assignments.
 * [Vagrant Image]( https://atlas.hashicorp.com/vpuente/boxes/AOSUC1617). Debian 8 (Jessie) ready 
 to develop the Lab assignments. Requires Virtual-Box as provider. Works in Windows/OSX. Alternatively
-you can Linux subsystem in Windows 10 and port is OSX (following this [guide](http://stackoverflow.com/a/39953891)).
+you can Linux subsystem in Windows 10 and port/brew is OSX (following this [guide](http://stackoverflow.com/a/39953891)).
