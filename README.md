@@ -46,12 +46,7 @@
     44. ~~Data Integrity and Protection [[Slides](44.Data_Integrity_and_Protection.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)]~~
     
 ## Labs Material
-* Intro to the Lab [[GUIDE](00_Intro.pdf)]
-* System Calls [[README](Labs/P1/README.md)]
-* Scheduling [[README](Labs/P2/README.md)]
-* Memory [[README](Labs/P3/README.md)]
-* Threads [[README](Labs/P4/README.md)]
-* File Systems [[README](LABS/P5/README.md)]
+* * [Private Repo](https://gitlab.com/AOSUC/Lab/).
 
 ## Exams
 
@@ -59,7 +54,6 @@
 
 ## Material to develop the Labs
 
-* [Private Repo](https://gitlab.com/AOSUC/Lab/). Used to Turn in assignments.
 * [Vagrant Image]( https://atlas.hashicorp.com/vpuente/boxes/AOSUC1617). Debian 8 (Jessie) ready 
 to develop the Lab assignments. Requires Virtual-Box as provider. Works in Windows/OSX. Alternatively
 you can use Linux subsystem in Windows 10 and port/brew is OSXhttp://beej.us/guide/bggdb/.
