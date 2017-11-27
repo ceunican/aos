@@ -54,6 +54,6 @@
 
 ## Material to develop the Labs
 
-* [Vagrant Image]( https://atlas.hashicorp.com/vpuente/boxes/AOSUC1617). Debian 8 (Jessie) ready 
+* [Vagrant Image]( https://atlas.hashicorp.com/vpuente/boxes/AOSUC). Debian 8 (Jessie) ready 
 to develop the Lab assignments. Requires Virtual-Box as provider. Works in Windows/OSX. Alternatively
 you can use Linux subsystem in Windows 10 and port/brew is OSXhttp://beej.us/guide/bggdb/.
