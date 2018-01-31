@@ -48,9 +48,17 @@
 ## Labs Material
 * * [Private Repo](https://gitlab.com/AOSUC/Lab/).
 
-## Exams
-
-* Course 2016/17 [part1](examen1-1617.pdf)[part2](examen2-1617.pdf)[part3](examen3-1617.pdf)[final](Examen_Feb_1617.pdf)
+## Exams (Spanish)
+* Course 2016/17 
+	1. [part1](examen1-1617.pdf)
+	2. [part2](examen2-1617.pdf)
+	3. [part3](examen3-1617.pdf)
+	4. [final](Examen_Feb_1617.pdf)
+* Course 2017/18
+	1. [part1](examen1-1718.pdf)
+	2. [part2](examen2-1718.pdf)
+	3. [part3](examen3-1718.pdf)
+	4. [final](Examen_Feb_1718.pdf)
 
 ## Material to develop the Labs
 
