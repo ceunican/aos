@@ -45,7 +45,7 @@
     43. Log-structured File System (LFS) [[Slides](43.Log-structured_File_System.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)]
     44. SSD Disks [[Slides](44.Flash_based_ssd.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf)]
     
-## Labs Material
+## Labs/Homework Material
 * * [Private Repo](https://gitlab.com/AOSUC/Lab/).
 
 ## Exams (Spanish)
@@ -59,9 +59,15 @@
 	2. [part2](examen2-1718.pdf)
 	3. [part3](examen3-1718.pdf)
 	4. [final](Examen_Feb_1718.pdf)
+* Course 2019/20
+	1. [part1](examen1-1920.pdf)
+	2. [part2](examen2-1920.pdf)
+	3. [part3](examen3-1920.pdf)
+	4. [final](Examen_Feb_1920.pdf)
 
 ## Material to develop the Labs
 
-* [Vagrant Image]( https://atlas.hashicorp.com/vpuente/boxes/AOSUC). Debian 8 (Jessie) ready 
-to develop the Lab assignments. Requires Virtual-Box as provider. Works in Windows/OSX. Alternatively
-you can use Linux subsystem in Windows 10 and port/brew is OSXhttp://beej.us/guide/bggdb/.
+* [Vagrant Image](https://app.vagrantup.com/vpuente/boxes/AOSUC). Debian 8 (Jessie) ready 
+to develop the Lab assignments. Requires Virtual-Box as provider. Works in Windows/OSX.
+
+Alternatively you can use Linux subsystem in Windows 10 and port/brew is OSX http://beej.us/guide/bggdb/. You need to configure it, though. Mainly install gcc/gdb and Qemu. 
