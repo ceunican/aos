@@ -32,9 +32,7 @@
     28. Locks [[Slides](28.Locks.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf)]
     29. Locked Data Structures [[Slides](29.Lock-based_Concurrent_Data_Structures.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf)]
     30. Condition Variables [[Slides](30.Condition_Variables.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf)]
-    31. Semaphores [[Slides](31.Semaphore.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)]
     32. Concurrency Bugs [[Slides](32.Common_Concurrency_Problems.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf)
-    33. Event Based Concurrency [[Slides](33.Event-based_Concurrency(Advanced).pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf)
 24. **Persistency**
     36. I/O Devices [[Slides](36.IO_Devices.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf)]
     37. Hard Disks [[Slides](37.Hard_Disk_Drives.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf)]
