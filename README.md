@@ -49,22 +49,11 @@
 * * [Private Repo](https://gitlab.com/AOSUC/Lab/).
 
 ## Exams (Spanish)
-* Course 2016/17 
-	1. [part1](examen1-1617.pdf)
-	2. [part2](examen2-1617.pdf)
-	3. [part3](examen3-1617.pdf)
-	4. [final](Examen_Feb_1617.pdf)
-* Course 2017/18
-	1. [part1](examen1-1718.pdf)
-	2. [part2](examen2-1718.pdf)
-	3. [part3](examen3-1718.pdf)
-	4. [final](Examen_Feb_1718.pdf)
-* Course 2019/20
-	1. [part1](examen1-1920.pdf)
-	2. [part2](examen2-1920.pdf)
-	3. [part3](examen3-1920.pdf)
-	4. [final](Examen_Feb_1920.pdf)
-
+* Course 2021/22
+	1. [MidT](examen1-2122)
+	2. [Final](examenEnero-2122)
+	3. [Extra](examenFebrero-2122)
+  
 ## Material to develop the Labs
 
 * [Vagrant Image](https://app.vagrantup.com/vpuente/boxes/AOSUC). Debian 8 (Jessie) ready 
