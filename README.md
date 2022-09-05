@@ -48,9 +48,9 @@
 
 ## Exams (Spanish)
 * Course 2021/22
-	1. [MidT](examen1-2122)
-	2. [Final](examenEnero-2122)
-	3. [Extra](examenFebrero-2122)
+	1. [MidT](examen1-2122.pdf)
+	2. [Final](examenEnero-2122.pdf)
+	3. [Extra](examenFebrero-2122.pdf)
   
 ## Material to develop the Labs
 
