@@ -54,7 +54,6 @@
   
 ## Material to develop the Labs
 
-* [Vagrant Image](https://app.vagrantup.com/vpuente/boxes/AOSUC). Debian 8 (Jessie) ready 
-to develop the Lab assignments. Requires Virtual-Box as provider. Works in Windows/OSX.
+* [Vagrant Image](https://app.vagrantup.com/vpuente/boxes/AOSUC). Debian VM ready 
+for the Lab.
 
-Alternatively you can use Linux subsystem in Windows 10 and port/brew is OSX http://beej.us/guide/bggdb/. You need to configure it, though. Mainly install gcc/gdb and Qemu. 
