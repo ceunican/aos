@@ -43,6 +43,8 @@
     43. Log-structured File System (LFS) [[Slides](43.Log-structured_File_System.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)]
     44. SSD Disks [[Slides](44.Flash_based_ssd.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf)]
     45. Data Integrity and protection [[Slides](45.Data_Integrity_and_Protection.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)] 
+    39. RAID [[Slides](38.RAID.pdf)],[[Book Chapter](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)] 
+
 ## Labs/Homework Material
 * * [Private Repo](https://gitlab.com/AOSUC/Lab/).
 
